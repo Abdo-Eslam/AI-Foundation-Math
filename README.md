@@ -1,1 +1,1 @@
-# AI-Foundation-Math
+# AI-Foundat
